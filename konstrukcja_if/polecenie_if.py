@@ -1,4 +1,3 @@
-#SPRAWDZAM CZY GIT DZIALA :D
 #ZADANIE 5.3
 #KOLORY OBCYCH CZESC 1
 #Wyobraz sobie zestrzelenie obcego w grze
