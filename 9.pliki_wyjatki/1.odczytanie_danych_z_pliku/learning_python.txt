@@ -1,0 +1,6 @@
+W pythonie mozna tworzyc listy
+W pythonie mozna robic strony
+W pythonie mozna iterowac
+W pythonie mozna tworzyc klasy
+W pythonie mozna uzywac bibliotek
+
