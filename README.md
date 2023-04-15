@@ -5,3 +5,7 @@
   - Podstawy Pythona
   - Słowniki
   - Funkcje
+  - OOP
+  - Wyjatki
+  - Praca z Plikami
+  - UnitTest
