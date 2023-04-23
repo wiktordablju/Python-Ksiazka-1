@@ -1,4 +1,4 @@
-# Python Książka - Część 
+# Python Książka - Część 1
 
 ### Zadania z pierwszej części książki "Python. Instrukcje dla programisty. Wydanie II" Eric'a Matthes'a
 
