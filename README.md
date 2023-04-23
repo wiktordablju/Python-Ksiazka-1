@@ -1,8 +1,8 @@
-# Python - Książka
+# Python Książka - Część 
 
-### Zadania z książki "Python. Instrukcje dla programisty. Wydanie II" Eric'a Matthes'a
+### Zadania z pierwszej części książki "Python. Instrukcje dla programisty. Wydanie II" Eric'a Matthes'a
 
-### Obecnie zrealizowane:
+### Zrealizowane:
 
 - Podstawy Pythona
 - Słowniki
